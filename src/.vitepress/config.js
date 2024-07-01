@@ -21,7 +21,7 @@ export default defineConfig({
   lang: 'zh-cn',
   title: '前端必备的知识宝典',
   description:
-    '前端必备的知识宝典，经 Fridolph 整理编写。内容均搜集自互联网，非商业，遵循 GPL 开源协议。',
+    '前端必备的知识宝典，经 reborncd 整理编写。内容均搜集自互联网，非商业，遵循 GPL 开源协议。',
   // head: [['link', { rel: 'shortcut icon', href: '/favicon.ico' }]],
   head,
   themeConfig: {
@@ -35,7 +35,7 @@ export default defineConfig({
     footer: {
       // message: '',
       copyright:
-        'Released <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank">CC BY-NC-ND 4.0</a> License. <span style="margin: 0 30px;">Powered by <a href="https://vitepress.dev/zh/" target="_blank">VitePress</a>.</span> Copyright © 2023-present <a href="https://blog.fridolph.top" target="_blank">Yinsheng Fu</a>',
+        'Released <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank">CC BY-NC-ND 4.0</a> License. <span style="margin: 0 30px;">Powered by <a href="https://vitepress.dev/zh/" target="_blank">VitePress</a>.</span> Copyright © 2023-present',
     },
     editLink: {
       pattern: 'https://github.com/reborncd/FE-INTERVIEW/edit/dev/docs/:path',

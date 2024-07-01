@@ -1,12 +1,15 @@
 /*
  * @Author: reborncd
  */
+/*
+ * @Author: reborncd
+ */
 export default [
   // 示例：avatar、name、title不用说了吧
   // 如果贡献了 想加自己的 博客，主页之类的，按下面的改就好
   // 更多配置自行搜索文档啦
   {
-    avatar: '../../../me.jpg',
+    avatar: 'https://reborncd.github.io/img/avatar2.jpg',
     name: 'Chang dongdong',
     title: 'Creator. FE developer, in Shanghai.',
     links: [
@@ -26,7 +29,7 @@ export default [
     ],
   },
   {
-    avatar: '../../../me.jpg',
+    avatar: 'https://reborncd.github.io/img/avatar.jpg',
     name: '屏幕前的你',
     title: '参与开源，和我一起完善吧',
     links: [
